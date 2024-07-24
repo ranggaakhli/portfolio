@@ -37,6 +37,7 @@ methods.
 - Python
 - Tableau
 - SQL
+- Google Cloud Console
 
 
 ### DATA SCIENCE COURSE
