@@ -46,6 +46,7 @@ Data Science and Machine Learning
 - Mastering Python fundamentals and advanced SQL
 - Proficient in Python and Tableau for data visualization
 - Studying a wide range of machine learning topics, including Supervised and Unsupervised Learning, Data Preparation and Feature Engineering, Model Evaluation and Hyperparameter Tuning, Time Series Forecasting and Text Processing, Recommendation Systems and Business Analytics
+- Understanding the concept of Big Data and Cloud Computing end-to-end application deployment
 
 Project (available on Github' Repository):
 - Football League Standings Manager. A Python program that serves as a Football League Standing Manager, allowing users to manage clubs, record match results, and view league standings
