@@ -46,11 +46,11 @@ Data Science and Machine Learning
 - Proficient in Python and Tableau for data visualization
 - Studying a wide range of machine learning topics, including Supervised and Unsupervised Learning, Data Preparation and Feature Engineering, Model Evaluation and Hyperparameter Tuning, Time Series Forecasting and Text Processing, Recommendation Systems and Business Analytics
 
-Project:
+Project (available on Github' Repository):
 - Football League Standings Manager. A Python program that serves as a Football League Standing Manager, allowing users to manage clubs, record match results, and view league standings
 - Online Retail Shipping. It seeks to answer what key factors contribute most significantly to the below-standard on-time delivery rate from the company’s KPI (60%), and how these factors can be addressed to improve overall delivery performance.
-- Online Retail Shipping Dashboard
-- Online Retail Shipping Story
+- Online Retail Shipping Dashboard: A Tableau Dashboard Demonstration
+- Online Retail Shipping Story: A Tableau Story Demonstration 
 - Global Crude Oil Forecasting, an ARIMA analysis to forecast the global crude oil price up to 2028
 - Daegu Apartment Sale Price Prediction
 
