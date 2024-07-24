@@ -2,29 +2,29 @@
 Rangga is a seasoned professional in politics and international relations with extensive experience in governmental and legislative processes. Recognizing the significant potential at the intersection of big data and politics, he is now focused on developing expertise in data science and machine learning. By integrating political analysis with advanced data analytics, Rangga aims to provide businesses and governmental bodies with strategic insights, enhancing decision-making and driving growth. His unique blend of political acumen and data science skills positions him to offer valuable perspectives to stakeholders and consultants working with government clients.
 
 ## WORKING EXPERIENCES
-Higher Education Consultant at Ministry of Defense, Republic of Indonesia
+**Higher Education Consultant at Ministry of Defense, Republic of Indonesia (2020–present)**
 - Provide high-quality translation and editing services for books on war and strategy, specifically tailored to meet the needs of the Indonesian Armed Forces (TNI).
 - Work closely with academic teams to translate and edit teaching materials, lecturer's slide presentations, and syllabuses.
 - Ensure seamless translation between English and Indonesian, maintaining the highest standards of quality and accuracy in all projects, guaranteeing the integrity and effectiveness of the content.
 
 
-Head of Research and Development at Pemimpin.id
+**Head of Research and Development at Pemimpin.id (2023)**
 - Led internal research and developed key programs, including IdeaFest 2023 where he formulated questions for presidential candidates with teams from SCTV, Think Policy and Folix Media
 - Partnered with organizations like the Singapore Business Federation, ASEAN Foundation, and multiple Indonesian governmental bodies.
 - Supervised and formulated tests for the Lead the Fest Scholarships, curating 1,000+ scholarship applicants
 
 
-Expert Staffer at West Java Province, Republic of Indonesia
+**Expert Staffer at West Java Province, Republic of Indonesia (2021–2023)**
 - Strategic Role and Program Development: Held a pivotal position at Bakesbangpol, enhancing democracy quality in West Java, and led innovative youth political education initiatives.
 - Reporting and Partnership Management: Produced insightful political reports with strategic recommendations, and managed external collaborations with Houston, New York, and several embassies in Jakarta to cooperate in democracy development.
 
 
-Expert Staffer at House of Representatives, Republic of Indonesia
+**Expert Staffer at House of Representatives, Republic of Indonesia (2021–2022)**
 - Generated concise reports on Commission I topics, covering international affairs, cyber, maritime security, defense, intelligence, and ICT, ensuring thorough analysis and comprehensive coverage.
 - Collaborated in crafting compelling public speeches and press releases for legislators
 
 
-Adjunct Lecturer at Faculty of Politics and Social Science, University of Pasundan
+**Adjunct Lecturer at Faculty of Politics and Social Science, University of Pasundan (2019–2020)**
 - Delivered engaging lectures on international politics, provided personalized mentorship, and designed rigorous assessments with constructive feedback.
 - Encouraged active classroom participation, maintained course relevance, and collaborated with colleagues to enhance teaching
 methods.
