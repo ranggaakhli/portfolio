@@ -1,5 +1,5 @@
 title: Rangga Akhli
 logo: /photo_rounded.png
 #description: International Relations and Security Studies | Data Science and Machine Learning
-show_downloads: False
+show_downloads: true
 theme: jekyll-theme-minimal
