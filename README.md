@@ -4,7 +4,7 @@ Rangga is a seasoned professional in politics and international relations with e
 ## WORKING EXPERIENCES
 **Higher Education Consultant at Ministry of Defense, Republic of Indonesia (2020–present)**
 - Provide high-quality translation and editing services for books on war and strategy, specifically tailored to meet the needs of the Indonesian Armed Forces (TNI).
-- Work closely with academic teams to translate and edit teaching materials, lecturer's slide presentations, and syllabuses.
+- Work closely with academic teams at Indonesia Defense University to translate and edit teaching materials, lecturer's slide presentations, and syllabuses.
 - Ensure seamless translation between English and Indonesian, maintaining the highest standards of quality and accuracy in all projects, guaranteeing the integrity and effectiveness of the content.
 
 
