@@ -30,7 +30,7 @@ Rangga is a seasoned professional in politics and international relations with e
 methods.
 
 
-### SKILLS
+## SKILLS
 - Qualitative and Quantitative Research
 - Academic Writing
 - Microsoft Office
@@ -40,7 +40,7 @@ methods.
 - Google Cloud Console
 
 
-### DATA SCIENCE COURSE
+## DATA SCIENCE COURSE
 Purwadhika, Digital Talent Incubator (DTI)
 Data Science and Machine Learning
 - Mastering Python fundamentals and advanced SQL
@@ -57,7 +57,7 @@ Data Science and Machine Learning
 - Daegu Apartment Sale Price Prediction
 
 
-### PUBLICATIONS
+## PUBLICATIONS
 
 - Akhli, R. A. (2024, July 16). *Why big data experts must be well-versed in GDPR*. Medium. [https://medium.com/@ranggaakhli/why-individuals-who-are-involved-in-big-data-must-be-concerned-with-gdpr-f7e554a64402](https://medium.com/@ranggaakhli/why-individuals-who-are-involved-in-big-data-must-be-concerned-with-gdpr-f7e554a64402)
 - Akhli, R. A. (2024, July 4). *How to forecast crude oil price for the next five years: A time series analysis*. Medium. [https://medium.com/@ranggaakhli/how-to-forecast-crude-oil-price-for-the-next-five-year-a-time-series-analysis-cfbe463543ae](https://medium.com/@ranggaakhli/how-to-forecast-crude-oil-price-for-the-next-five-year-a-time-series-analysis-cfbe463543ae)
