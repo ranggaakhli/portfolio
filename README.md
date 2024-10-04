@@ -49,6 +49,7 @@ Data Science and Machine Learning
 - Understanding the concept of Big Data and Cloud Computing end-to-end application deployment
 
 **Projects (available on Github' Repository):** 
+- A Machine Learning for Bank Deposit Prediction
 - Football League Standings Manager. A Python program that serves as a Football League Standing Manager, allowing users to manage clubs, record match results, and view league standings
 - Online Retail Shipping. It seeks to answer what key factors contribute most significantly to the below-standard on-time delivery rate from the company’s KPI (60%), and how these factors can be addressed to improve overall delivery performance.
 - Online Retail Shipping Dashboard: A Tableau Dashboard Demonstration
